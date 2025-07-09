@@ -20,7 +20,7 @@ export default function CTASection() {
         <div className="mb-8">
           <h2 className="text-3xl md:text-4xl font-bold mb-8 relative inline-block" style={{ fontFamily: "PoppinMedium" }}>
             SCHEDULE A 
-            <span className="relative ml-2 block sm:inline-block pb-3"> " LET'S TALK HEALTHCARE CALL "
+            <span className="relative ml-2 block sm:inline-block pb-3">  LET TALK HEALTHCARE CALL 
               <div className="absolute bottom-0 left-0 right-0 flex justify-center">
                 <div className="w-56 h-1 bg-[#5a9dae]   rounded-full"></div>
               </div>

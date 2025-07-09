@@ -14,10 +14,10 @@ export default function ExperienceWhyUsSection() {
               <div className="absolute -bottom-2 left-0 w-20 h-1 bg-[#5a9dae] rounded-full"></div>
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed" style={{ fontFamily: "PoppinRegular" }}>
-              After 24 years in the healthcare industry, we possess the knowledge to help you achieve your goals. If you're looking to buy or sell a healthcare business, our experienced team can guide you through every step of the process with expertise and care.
+              After 24 years in the healthcare industry, we possess the knowledge to help you achieve your goals. If you are looking to buy or sell a healthcare business, our experienced team can guide you through every step of the process with expertise and care.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed" style={{ fontFamily: "PoppinRegular" }}>
-              Whether you're a first-time buyer or an experienced investor, we're here to help you make informed decisions and avoid costly mistakes.
+              Whether you are a first-time buyer or an experienced investor, we are here to help you make informed decisions and avoid costly mistakes.
             </p>
           </div>
 
@@ -28,7 +28,7 @@ export default function ExperienceWhyUsSection() {
               <div className="absolute -bottom-2 left-0 w-16 h-1 bg-[#5a9dae] rounded-full"></div>
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed" style={{ fontFamily: "PoppinRegular" }}>
-              Healthcare Business Brokers are specialists—that's what we do. When it comes to buying or selling a business, you should be connected with someone who knows your industry. We understand the unique challenges and opportunities that come with healthcare businesses.
+              Healthcare Business Brokers are specialists thats what we do. When it comes to buying or selling a business, you should be connected with someone who knows your industry. We understand the unique challenges and opportunities that come with healthcare businesses.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed" style={{ fontFamily: "PoppinRegular" }}>
               Our team has the experience and knowledge to help you navigate the complex world of healthcare business transactions with confidence.

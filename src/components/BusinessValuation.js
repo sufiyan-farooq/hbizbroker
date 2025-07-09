@@ -31,10 +31,10 @@ import React from 'react'
           </h3>
               <div style={{ fontFamily: "PoppinRegular" }} className="space-y-4 text-gray-300">
                 <p className="leading-relaxed">
-                  The art of healthcare business valuation can take the form of many different models. Comparative, valuation tools that use sophisticated algorithms. All of healthcare is economics and valuation understanding is truly the key to the success of any transaction relative to how you handle your past financial performance, your goodwill, the very essence of your business.
+                  The art of healthcare business valuation can take the form of many different models. Comparative, valuation tools that use sophisticated algorithms. All of healthcare is economics and valuation understanding is truly the key to the success of any transaction relative to how you handle your past financial performance, your good will, the very essence of your business.
                 </p>
                 <p className="leading-relaxed">
-                  If you're a healthcare business, we first come applying point for market research looking at structuring your business. We will use measuring one a set of prescribed assumptions to help you create these processes that buyer's will looking for when purchasing your financial statements. We also audit the books and records to identify your business greatest. Goodwill can take on many forms.
+                  If you are a healthcare business, we first come applying point for market research looking at structuring your business. We will use measuring one a set of prescribed assumptions to help you create these processes that buyers will looking for when purchasing your financial statements. We also audit the books and records to identify your business greatest. Goodwill can take on many forms.
                 </p>
               </div>
             </div>

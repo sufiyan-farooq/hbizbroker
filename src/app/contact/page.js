@@ -46,7 +46,7 @@ const ContactPage = () => {
           </p>
           <p               style={{ fontFamily: "PoppinRegular" }}
  className="text-lg text-gray-400 max-w-2xl mx-auto">
-            Ready to get started? Let's discuss your healthcare business needs and explore how we can help you succeed.
+            Ready to get started? Lets discuss your healthcare business needs and explore how we can help you succeed.
           </p>
         </div>
       </section>

@@ -111,11 +111,11 @@ const WhyWorkWithUs = () => {
     {/* Content */}
     <div  className="relative z-10">
       <p style={{ fontFamily: "PoppinRegular" }} className="text-white text-lg mb-6 italic">
-        "If you are seriously looking for a healthcare business and or looking to sell a healthcare business, please allow us to spend some time with you! We would recommend that you interview other agents so that you can compare our value proposition versus theirs."
+        If you are seriously looking for a healthcare business and or looking to sell a healthcare business, please allow us to spend some time with you! We would recommend that you interview other agents so that you can compare our value proposition versus theirs.
       </p>
-      <button style={{ fontFamily: "PoppinRegular" }} className="bg-[#387b8c] text-white px-16 cursor-pointer py-3 rounded-full font-semibold hover:bg-[#387b8c]/90 transition-colors duration-300 flex items-center mx-auto">
+      <button style={{ fontFamily: "PoppinRegular" }} className="bg-[#387b8c] text-white px-16 cursor-pointer py-3 rouned-full font-semibold hover:bg-[#387b8c]/90 transition-colors duration-300 flex items-center mx-auto">
         <Phone className="w-5 h-5 mr-2" />
-        CONTACT US @ (518) 791-7723
+        CONTACT US @ 518 791-7723
       </button>
     </div>
   </div>
