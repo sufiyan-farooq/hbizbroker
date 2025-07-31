@@ -1,0 +1,21 @@
+{
+  "name": "HBizBroker",
+  "short_name": "BizBroker",
+  "description": "Business & Real Estate Consultation",
+  "icons": [
+    {
+      "src": "/logo.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#084887"
+}

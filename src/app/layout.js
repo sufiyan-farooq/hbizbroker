@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import RouteLoader from "@/components/RouteLoader";
-
+import Head from "next/head"; // ✅ Import Head
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -24,11 +24,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <RouteLoader />     
+        {/* ✅ Add Head here */}
+        <Head>
+          <link rel="manifest" href="/manifest.json" />
+          <meta name="theme-color" content="#084887" />
+          <link rel="apple-touch-icon" href="/logo.webp" />
+        </Head>
 
-        <Header />          
-        <main>{children}</main> 
-        <Footer />         
+        <RouteLoader />
+        <Header />
+        <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );
