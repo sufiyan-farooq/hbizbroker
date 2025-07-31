@@ -3,9 +3,8 @@ const withPWA = require('next-pwa')({
   register: true,
   skipWaiting: true,
   fallbacks: {
-    // Serve offline.html when no internet
-    document: '/offline.html',
-  },
+    document: '/offline.html'  // ✅ Offline fallback
+  }
 });
 
 module.exports = withPWA({
